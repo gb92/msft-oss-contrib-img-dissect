@@ -2456,7 +2456,7 @@ $(document).ready(function() {
         { x: 59, y: 21, github: null },
         { x: 60, y: 21, github: null },
         { x: 61, y: 21, github: null },
-        { x: 62, y: 21, github: null },
+        { x: 62, y: 21, github: mattchenderson },
         { x: 63, y: 21, github: null },
         { x: 64, y: 21, github: null },
         { x: 65, y: 21, github: null },
